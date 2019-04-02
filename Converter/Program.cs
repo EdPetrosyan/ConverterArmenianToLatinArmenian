@@ -10,7 +10,7 @@ namespace Converter
     {
         static void Main(string[] args)
         {
-
+            Convert convert = new Convert("հասարակ տեքստ");
         }
     }
 }
